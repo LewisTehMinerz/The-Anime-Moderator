@@ -1,0 +1,12 @@
+{
+  "name": "the-anime-moderator",
+  "version": "0.0.0",
+  "description": "The Anime Moderator",
+  "main": "the-anime-moderator.js",
+  "author": {
+    "name": "LewisTehMinerz"
+  },
+  "dependencies": {
+  	  "discord.io": ">=1.13.4"
+  }
+}
